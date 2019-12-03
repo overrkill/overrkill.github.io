@@ -1,14 +1,14 @@
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
-	background-color: blue
+	background-color: black
 }
 
 #console {
 	font-family: courier, monospace;
 	color: #fff;
 	margin-top:5%;
-	font-size:50px;
+	font-size:20px;
 }
 #cw{
     display:flex;
@@ -46,7 +46,7 @@ a {
 
 @media only screen and (min-width: 961px) {
   body {
-	background-color: red
+	background-color: black
 }
 
 #console {
