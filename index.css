@@ -1,3 +1,15 @@
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  #console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:70vw;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:5%;
+	font-size:20px;
+}
+}
 body {
 	background-color: #000
 }
