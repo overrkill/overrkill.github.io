@@ -3,10 +3,10 @@
  "<span id="k">Dont cry over spilt milk it may be poisioned</span>". <!-- sjkfhskjf -->
 
 Hey There! .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Lets talk</p>
-<p>I am a prog(r)amer .</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->favorite place to be alive Novorepnoye and terminal
-<p> favorite language python : can speak c++ and c :  overwhelmed by javascript <a href="link">A formal  portfolio coming soon</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself? really no thats all you need to know <br><br><br>Github<a href="github.com/overrkill"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> WHere YOu can find me <br> <a href="link1">PuBG : OvERRKill</a> <br> <a href="link2">instagram : overkill.ig</a> </p>
+<p>I am a programmer .</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->favorite place terminal
+<p> favorite language python & javascript : can speak c++ and c :  overwhelmed by rust <a href="link">A formal  portfolio coming soon</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Tell more about yourself? really no thats all you need to know  <br>if you are really curious you may check my gtihub/social handles <br><br><br>Github<a href="https://github.com/overrkill"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> WHere YOu can find me? <br> <a href="https://instagram.com/usrnameabhi.deprecated/">instagram : Abhishek kale</a> </p>
 
 <!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="zabhishekkale@gmail.com">Email</a>.
 
